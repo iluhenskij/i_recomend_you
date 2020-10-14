@@ -9,4 +9,13 @@ html,body,.wrapper{
   align-items: center;
   justify-content: center;
   flex-flow: column;
+  background: url("main_bg.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+iframe{
+  height: 180px;
+  opacity: 0.9;
+  transform: translate(-30%, 0px);
 }
